@@ -1,0 +1,10 @@
+#esendex-salesforce-form {
+	max-width: 60%;
+}
+#esendex-salesforce-form .form-row {
+	padding: 1em 0;
+}
+#esendex-salesforce-form .form-row input,
+#esendex-salesforce-form .form-row select {
+	width: 100%;
+}
